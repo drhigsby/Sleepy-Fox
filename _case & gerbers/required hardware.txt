@@ -1,0 +1,10 @@
+7x M3 4mm standoffs - https://www.aliexpress.com/item/1005001478740318.html?spm=a2g0s.9042311.0.0.24934c4d1pd3bl
+14x M3 3mm screws (head diameter < 5.5mm) - https://www.aliexpress.com/item/1005002193355886.html?spm=2114.12010615.8148356.35.44e56cadlV5HxD
+43x diodes
+42x switches
+1x PM
+1x rotary encoder 
+keycaps
+
+
+KLE: http://www.keyboard-layout-editor.com/#/gists/9a86f10bc3449b040fa069f6630c5a98
