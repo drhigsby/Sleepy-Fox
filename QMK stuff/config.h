@@ -29,8 +29,8 @@
 #define MATRIX_COLS 12
 
 /* Define encoder pads */
-#define ENCODERS_PAD_A { B5 }
-#define ENCODERS_PAD_B { B6 }
+#define ENCODERS_PAD_A { B6 }
+#define ENCODERS_PAD_B { B5 }
 
 /*
  * Keyboard Matrix Assignments
